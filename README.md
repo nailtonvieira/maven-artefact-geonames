@@ -1,4 +1,4 @@
-Geonames API 1.1.13 for Maven projects
+# Geonames API 1.1.13 for Maven projects
 
 Simple use:
       
