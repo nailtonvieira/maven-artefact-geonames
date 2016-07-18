@@ -20,4 +20,5 @@
         </dependency>
 
     </dependencies>
+    <name>pswot-cloud-java-geonames-maven</name>
 </project>
