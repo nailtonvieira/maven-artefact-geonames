@@ -6,7 +6,7 @@ Simple use:
         <dependency>
             <groupId>com.github.nailtonvieira</groupId>
             <artifactId>maven-artefact-geonames</artifactId>
-            <version>0.1.1</version>
+            <version>1.0</version>
         </dependency>
         
         <dependency>
