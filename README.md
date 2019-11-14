@@ -1,3 +1,5 @@
+[![Actions Status](https://github.com/nailtonvieira/osgi-karaf-maven-geonames-api/workflows/JavaCI/badge.svg)](https://github.com/{owner}/{repo}/actions)
+
 # Geonames API 1.1.13 for Maven projects - Jitpack
 
 Simple use:
